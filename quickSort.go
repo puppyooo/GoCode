@@ -23,4 +23,5 @@ func main() {
 	arr := []int{10, 5, 2, 3}
 	fmt.Println(arr)
 	fmt.Println(quickSort(arr))
+	fmt.Println("hello world")
 }
